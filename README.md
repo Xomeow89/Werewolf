@@ -19,7 +19,7 @@ To set up werewolf on a private server, follow these steps:
 1. Go to [BotFather](https://telegram.me/BotFather) and create a new bot.  Answer all of the questions it asks, and you will receive an API Token.
    * On your server, open regedit, and go to `HKLM\SOFTWARE\`, create a new Key named `Werewolf` (HKLM - HKEY_LOCAL_MACHINE)
    * In the new key create a new string value named `ProductionAPI`.  
-   * Paste your API token here.
+   * 7285938411:AAFI0PjJDELd-oyFvC61tIoXg8Dh01pChFU
 2. Grab the werewolf.sql file from this repository
    * Open the file in notepad, notepad++, whatever you use
    * Double check the path at the top of the file - update it if you are using a different SQL version
